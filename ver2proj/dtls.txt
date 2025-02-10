@@ -16,7 +16,7 @@ IN AP.PY -
 Improvement possible - [for ver 3]
   - few cols can be included if mapping done , can be added in model
   - few col values are unknown to public, so remove them from model, if ok
-  - can we add some plot
+  - can we add some plot in streamlit UI
   - styling if k
   - check random forest and other models too
 
