@@ -1,0 +1,25 @@
+IN VER 1 -------------------------
+SELECTED 8 COLS IN VER 1 [AS THEY ARE SHOWN AS IMP FEATURES]
+
+COLS VALUES ARE IN LABEL ENCODER AND SCALING FORM 
+
+Improve - [for ver 2]
+    -IN APP.PY  -> SAME LABEL ENCODER AND SCALING IS NEEDED
+
+  
+IN VER 2 ---------------------------
+DONE - 
+IN AP.PY - 
+  MAPPING OF ACTUAL VALUES WITH LABEL ENCODER VALUES OF COLS 
+  SCALING DONE on 2 cols [but little dft then act]
+
+Improvement possible - [for ver 3]
+  - few cols can be included if mapping done , can be added in model
+  - few col values are unknown to public, so remove them from model, if ok
+  - can we add some plot
+  - styling if k
+
+
+
+
+    
